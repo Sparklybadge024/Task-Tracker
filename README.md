@@ -75,5 +75,5 @@ State management is handled using **Redux**, ensuring scalability and maintainab
 
 ---
 
-## 📂 Project Structure
+
 
